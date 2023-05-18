@@ -25,5 +25,5 @@ app
     port: 3333,
   })
   .then(() => {
-    console.log('🌎🚀 🌑 🪐 🛸 \n SERVER EXECUTING ON \n http://localhost:3333  💨')
+    console.log('🌎🚀 🌑 🪐 🛸 \n SERVER EXECUTING ON \n http://localhost:3333')
   })
