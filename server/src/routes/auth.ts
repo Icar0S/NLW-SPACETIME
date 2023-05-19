@@ -60,7 +60,7 @@ export async function authRoutes(app: FastifyInstance) {
       })
     }
 
-    // Token criado pelo back para o front utilizar o token e manter login
+    // Token criado pelo backend para o front utilizar o token e manter login
     //passando 2 objetos
     //1° -> quais informações ficarão no token (infomações visiveis a todos)
     //2° -> 2 infos , a quem pertence o token e quanto tempo deve durar
